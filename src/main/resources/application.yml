@@ -1,0 +1,11 @@
+bean-list-property:
+  company:
+    document: 11.222.333/0001-44
+    socialName: Company Name
+    phones:
+      - (11) 98765-4321
+      - (11) 2345-6789
+    emails:
+      - aaaaa@gmail.com
+      - bbbbb@hotmail.com
+      - ccccc@ccccccc.com
